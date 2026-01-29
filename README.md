@@ -2,7 +2,7 @@
 
 A modern, AI-powered web application designed to analyze resumes and provide professional feedback. Built with React, Vite, and Tailwind CSS.
 
-##🚀 Features
+## 🚀 Features
 
 - **Premium UI/UX**: Aesthetic dark mode design with glassmorphism effects.
 - **Resume Analysis**: Instant feedback on professional summary, strengths, weaknesses, and formatting.
