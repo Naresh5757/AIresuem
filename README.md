@@ -50,5 +50,4 @@ A modern, AI-powered web application designed to analyze resumes and provide pro
 4. Review your detailed score and feedback.
 
 ## 🤝 Contributing
-
 Contributions are welcome! Please feel free to submit a Pull Request.
